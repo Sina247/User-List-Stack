@@ -1,14 +1,14 @@
 # 🗃️ User List Stack
 
-A dynamic and efficient **User List Stack** built with **JavaScript** for managing users in a Last In First Out (LIFO) order. Perfect for handling recent user actions, navigation history or undo functionality in web applications.
+A clean and visually appealing **User List Stack** built with **HTML** and **CSS** only. This UI component simulates a stack structure to display users in Last In First Out (LIFO) order, perfect for showing recent user activity and navigation history without JavaScript.
 
 ---
 
 ## 🚀 Features
 
-- 🗂️ **LIFO Structure**: Adds and removes users in stack order for intuitive management.  
-- ⚡ **Fast Operations**: Efficient push and pop methods for quick updates.  
-- 🧩 **Pure JavaScript**: Lightweight implementation without any external dependencies.  
-- 🔄 **Dynamic User Handling**: Easily track recent users or sessions with stack logic.  
-- 📱 **Integratable**: Simple API to plug into any front end or back end project.  
-- 🛠️ **Customizable**: Extendable to add features like peek, clear or size tracking.
+- 🗂️ **LIFO Visual Stack**: Displays users stacked in order and newest on top.  
+- 🎨 **Pure HTML and CSS**: No JavaScript needed, lightweight and easy to customize.  
+- 💡 **Interactive Hover Effects**: Stylish highlights to improve user experience.  
+- 📱 **Responsive Design**: Looks great on all devices and screen sizes.  
+- 🛠️ **Easy to Extend**: Can be combined with JavaScript later for dynamic behavior.  
+- 🧩 **Accessible Markup**: Semantic HTML for better usability and SEO.
